@@ -1,0 +1,70 @@
+*{
+    font-family: 'marvel',sans-serif;
+}
+body{
+    background-image: url(arc\ reactor.jpg);
+    background-repeat: none;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+header{
+    text-align: center;
+    color: white;
+    font-family: 'marvel',sans-serif;
+}
+.navbar{
+    text-align: center;
+}
+.navbar a{
+    display: inline-block;
+    color: white;
+    font-family: 'marvel',sans-serif;
+    text-decoration: none;
+    padding: 10px 10px;
+}
+a:hover{
+    color: red;
+    size: 40px;
+}
+section h2{
+    color: white;
+    text-align: center;
+}
+#photo1{
+    padding: 10px;
+    size: 20%;
+    float: left;
+
+}
+section{
+    color: white;
+    font-family: 'marvel',sans-serif;
+}
+article h2{
+    text-align: center;
+    color: white;
+}
+article{
+    color: white;
+}
+#photo2{
+    padding: 10px;
+    float: right;
+
+}
+aside h2{
+    text-align: center;
+    color: white;
+}
+aside p{
+    color: white;
+
+}
+footer{
+    margin: 0px;
+    text-align: left;
+    size: 2px;
+    color: white;
+}
